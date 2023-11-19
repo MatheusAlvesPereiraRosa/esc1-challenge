@@ -25,4 +25,3 @@ Depois disso, entre na pasta do projeto e rode o projeto com o comando:
 ```
 
 Link do projeto online: https://esc1-challenge.netlify.app/
-'''
